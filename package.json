@@ -1,0 +1,29 @@
+{
+  "name": "harverapro-ad-checker",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Hardverapro checker application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tamascsaba/harverapro-ad-checker.git"
+  },
+  "keywords": [
+    "hardverapro",
+    "checker",
+    "checker"
+  ],
+  "author": "Csaba Tamas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tamascsaba/harverapro-ad-checker/issues"
+  },
+  "homepage": "https://github.com/tamascsaba/harverapro-ad-checker#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "request-promise-native": "^1.0.9"
+  }
+}
